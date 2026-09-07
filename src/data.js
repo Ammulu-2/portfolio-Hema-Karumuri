@@ -5,7 +5,7 @@ export const profile = {
   tagline: "React.js · JavaScript · SharePoint · Power Platform",
   email: "karumurihemak@gmail.com",
   phone: "+91-9381612019",
-  github: "https://github.com/",
+  github: "https://github.com/Ammulu-2",
   linkedin: "https://www.linkedin.com/",
   photo: "./profile.jpg",
   resume: "./Hema_Karumuri_Frontend_Developer_Resume.pdf",
