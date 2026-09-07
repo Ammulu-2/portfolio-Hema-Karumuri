@@ -6,7 +6,7 @@ export const profile = {
   email: "karumurihemak@gmail.com",
   phone: "+91-9381612019",
   github: "https://github.com/Ammulu-2",
-  linkedin: "https://www.linkedin.com/",
+  linkedin: "https://www.linkedin.com/in/hema-karumuri-67317b225",
   photo: "./profile.jpg",
   resume: "./Hema_Karumuri_Frontend_Developer_Resume.pdf",
   liveProject: "",
